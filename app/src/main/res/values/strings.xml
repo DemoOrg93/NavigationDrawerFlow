@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Navigation Drawer And Master Detail Flow</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Navigation Drawer with Master-Detail Flow Example</string>
+</resources>
